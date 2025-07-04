@@ -171,3 +171,6 @@ class ClientRegistrationForm(tk.Tk):
 
         self.photo_label.config(image="", text="No Image", bg="gray")
         self.photo_path = None
+
+
+#test lang if may nabago
